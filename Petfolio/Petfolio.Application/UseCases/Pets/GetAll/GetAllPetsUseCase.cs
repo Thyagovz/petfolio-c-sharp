@@ -12,9 +12,9 @@ public class GetAllPetsUseCase
             {
                 new ResponseShortPetJson
                 {
-                Id = 1,
-                Name = "Charlie",
-                Type = Communication.Enums.PetType.Dog,
+                    Id = 1,
+                    Name = "Charlie",
+                    Type = Communication.Enums.PetType.Dog
                 }
 
             }
